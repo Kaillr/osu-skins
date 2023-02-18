@@ -28,7 +28,7 @@ You can find my personal skin collection [here](https://github.com/Kaillr/osu-sk
 
 #
 
-- [TITS (Toti's International Tournament Skin)](https://drive.google.com/file/d/1FLe0NTfknjdrabbU4d1nbtHktlOOEeQg/view?usp=share_link)
+- [TITS (Toti's International Tournament Skin)](https://drive.google.com/file/d/1Ns8rR07rhawTSn-QqZPFAs8b2iJRqVD5/view?usp=sharing)
 
   ![TITS skin preview](https://user-images.githubusercontent.com/125704518/219874266-3a0da6ca-4f8b-4269-b469-19b033362fbe.png)
 
