@@ -2,6 +2,8 @@
 
 This is a collection of osu! skins that I have created (or contributed to) for others to download and use.
 
+You can find my personal skin collection [here](https://github.com/Kaillr/osu-skins/blob/main/kailler-skins.md)
+
 ## Skin List
 
 - [Jasan](https://drive.google.com/file/d/1bG-0LK9gMuJpRwZCxwqYFJFF5jsBX5So/view?usp=sharing)
