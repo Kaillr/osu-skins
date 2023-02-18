@@ -4,7 +4,7 @@ This is a collection of osu! skins that I have created (or contributed to) for o
 
 ## Skin List
 
-- [Jasan](https://drive.google.com/file/d/1uJxNxjCFFUj8eero0xfWW1MVnrtZdLex/view?usp=sharing)
+- [Jasan](https://drive.google.com/file/d/1bG-0LK9gMuJpRwZCxwqYFJFF5jsBX5So/view?usp=sharing)
 
   ![Jasan skin preview](https://user-images.githubusercontent.com/125704518/219818887-1fbd427f-4347-442b-90fb-5d75827b04c1.png)
 
