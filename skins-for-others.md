@@ -1,4 +1,4 @@
-# OSU! Skins by Kailler
+# osu! Skins by Kailler
 
 This is a collection of osu! skins that I have created (or contributed to) for others to download and use.
 
