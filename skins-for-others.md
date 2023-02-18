@@ -30,4 +30,4 @@ This is a collection of osu! skins that I have created (or contributed to) for o
 
 ## How to Use
 
-To use one of the skins, click on the link to download the skin file. Then, open or extract the file and move it to the skins folder in your osu! installation directory. Finally, select the skin in your OSU! settings.
+To use one of the skins, click on the link to download the skin file. Then, open or extract the file and move it to the skins folder in your osu! installation directory. Finally, select the skin in your osu! settings.
