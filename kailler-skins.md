@@ -2,7 +2,7 @@
 
 Here you will find a collection of skins that I have made over the years of playing osu!
 
-You can also find skins that I have made for other people [here](https://github.com/Kaillr/osu-skins/blob/main/skins-for-others.md)
+You can also find skins that I have made for other people <u>[here](https://github.com/Kaillr/osu-skins/blob/main/skins-for-others.md)</u>
 
 
 ## Skin List
