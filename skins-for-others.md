@@ -4,6 +4,8 @@ This is a collection of osu! skins that I have created (or contributed to) for o
 
 You can find my personal skin collection [<ins>here</ins>](https://github.com/Kaillr/osu-skins/blob/main/kailler-skins.md)
 
+Hey kailler did you know that Jasan was here
+
 ## Skin List
 
 - [Jasan](https://drive.google.com/file/d/1bG-0LK9gMuJpRwZCxwqYFJFF5jsBX5So/view?usp=sharing)
