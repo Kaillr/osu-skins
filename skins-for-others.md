@@ -6,7 +6,7 @@ You can find my personal skin collection [<ins>here</ins>](https://github.com/Ka
 
 ## Skin List
 
-- [Jasan](https://drive.google.com/file/d/1bG-0LK9gMuJpRwZCxwqYFJFF5jsBX5So/view?usp=sharing)
+- [Jasan](https://drive.google.com/file/d/1MDZeiUoj5KbNGxOZ275P9MeFs2OxOlcl/view?usp=drive_link)
 
   ![Jasan skin preview](https://user-images.githubusercontent.com/125704518/219818887-1fbd427f-4347-442b-90fb-5d75827b04c1.png)
 
