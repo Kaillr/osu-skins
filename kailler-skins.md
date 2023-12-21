@@ -7,6 +7,21 @@ You can also find skins that I have made for other people <u>[here](https://gith
 
 ## Skin List
 
+
+- [Task Manager (Dark Mode)](https://drive.google.com/file/d/1sTt_9fqfRih4P3nGlRXN_FldR93AkjPq/view?usp=sharing)
+
+  ![Task Manager (Dark Mode) preview](https://github.com/Kaillr/osu-skins/assets/125704518/0d707fc8-baac-41a6-8979-0cc1173434f1)
+
+
+#
+
+- [Task Manager](https://drive.google.com/file/d/1PbDxMMrBjmPgCKi8PcJGQ0AOF4N_Oyk8/view?usp=sharing)
+
+  ![Task Manager preview](https://github.com/Kaillr/osu-skins/assets/125704518/ea4ed6d9-77f3-40f6-a71c-d903a13d5e4c)
+
+
+#
+
 - [New Title (2020)](https://drive.google.com/file/d/1a8-A2GywkVxAlZYeZpzzBqynhleJ0rIR/view?usp=sharing)
 
   ![New Title skin preview](https://user-images.githubusercontent.com/125704518/219876156-7a3b0b1a-a3ea-4aea-9594-9eb8a5b29a44.png)
