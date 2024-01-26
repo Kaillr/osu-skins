@@ -15,7 +15,7 @@ You can also find skins that I have made for other people <u>[here](https://gith
 
 #
 
-- [Task Manager](https://drive.google.com/file/d/1PbDxMMrBjmPgCKi8PcJGQ0AOF4N_Oyk8/view?usp=sharing)
+- [Task Manager (requires you to make the map bg white)](https://drive.google.com/file/d/1PbDxMMrBjmPgCKi8PcJGQ0AOF4N_Oyk8/view?usp=sharing)
 
   ![Task Manager preview](https://github.com/Kaillr/osu-skins/assets/125704518/ea4ed6d9-77f3-40f6-a71c-d903a13d5e4c)
 
